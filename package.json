@@ -1,0 +1,24 @@
+{
+  "name": "simple-virtual-hosts",
+  "version": "0.0.1",
+  "description": "A simple hostname router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:omsmith/simple-virtual-hosts.git"
+  },
+  "keywords": [
+    "virtualhost",
+    "vhost",
+    "router"
+  ],
+  "author": "Owen Smith <owen@omsmith.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omsmith/simple-virtual-hosts/issues"
+  },
+  "homepage": "https://github.com/omsmith/simple-virtual-hosts"
+}
