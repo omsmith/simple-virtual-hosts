@@ -1,5 +1,7 @@
 # simple-virtual-hosts
 
+[![Build Status](https://travis-ci.org/omsmith/simple-virtual-hosts.png?branch=master)](https://travis-ci.org/omsmith/simple-virtual-hosts) [![Coverage Status](https://coveralls.io/repos/omsmith/simple-virtual-hosts/badge.png?branch=master)](https://coveralls.io/r/omsmith/simple-virtual-hosts?branch=master)
+
 A simple hostname router
 
 ## Example
